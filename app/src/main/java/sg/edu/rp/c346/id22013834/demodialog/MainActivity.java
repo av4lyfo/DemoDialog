@@ -1,6 +1,5 @@
 package sg.edu.rp.c346.id22013834.demodialog;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
